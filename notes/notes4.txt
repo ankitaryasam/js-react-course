@@ -11,4 +11,16 @@ Here, from the above examples when you want to write the logic/code for such act
 => Code inside the function is not automatically executed
 =>To execute the function code, Function must be called explicitly(by the programmer).
 => We can call the function n number of times.
+=> calling the function means invocation of function
 
+Function Parameters:-
+Parameters - Parameters are additional information that we can pass to functions.
+
+
+FUNCTION RETURNS
+Sometimes it is our requirement to make our function returning some value/data so, that we can use returned data further in our code.
+
+
+We can pass the value for the parameters. these passed values are generally known as arguements.
+
+function can return anything...also a function can return nothing means void

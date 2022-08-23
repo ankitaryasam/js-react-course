@@ -5,3 +5,7 @@ Q. Write a function to convert degree celsius into fahrenheit
 Q. Write a function to calculate discount on given discount percent. Hint:-
          MRP - 10000, perDiscount = 12%, 
          So, What will be discount amount?
+
+Q. write a program to find simple interest by passing the values through params.
+
+
