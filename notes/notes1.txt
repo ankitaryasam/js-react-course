@@ -1,0 +1,30 @@
+JavaScript :- 
+It is one of the most popular programming language.
+
+
+Variables:
+Varibles are like containers where we can hold any data.
+
+In JavaScript, we can create varibles through 3 ways:-
+i) Using var keyword
+ii) Using let keyword
+iii) const keyword (to keep any constant value)
+
+Note:- All js Variables must be identified with unique names. These unique names are known as identifiers.
+
+Rules to write identifiers:-
+a) Names can contains letters, digits, underscore _ and dollar signs.
+b) Names must starts with letter or $ or _
+c) Names cannot start with digits.
+d) Names are case sensitive.
+e) Reserved words are not allowed.
+
+Declaration of Variables:-
+Declaration of variables means creating a variable.
+
+After declaration, the variable has no any value assigned.
+so, it is undefined.
+
+
+Q. Declare 5 variables and print their values.
+

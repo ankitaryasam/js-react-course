@@ -1,0 +1,14 @@
+function:-
+
+function is a block/set of code to perform some logic/task
+
+While writing any code or developing any application, there is requirement to separate the logics. That's why we write functions.
+
+userLogin, userRegistration, commentOnPost, addNewPost and etc
+
+Here, from the above examples when you want to write the logic/code for such activities. In this case, we will create functions.
+
+=> Code inside the function is not automatically executed
+=>To execute the function code, Function must be called explicitly(by the programmer).
+=> We can call the function n number of times.
+

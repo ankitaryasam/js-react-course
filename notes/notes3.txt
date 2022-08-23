@@ -1,0 +1,21 @@
+Data types:-
+In variables, we put some data. So, this data that we put in the variables can be of following type. These are known as data type.
+
+let x = 90;
+=> JavaScript variables can hold different data types : numbers, strings, object and more
+
+Types of data type:-
+1. Primitive data type
+  i) number
+  ii) string
+  iii) boolena i.e true and false
+  iv) undefined
+
+
+2. Reference data type
+
+
+
+Q. Write a program to calculate simple interest;
+Q. Write a program to calculate product of two numbers.
+Q. Write a program to convert fahrenheit into celsius.
