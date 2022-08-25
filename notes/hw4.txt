@@ -9,3 +9,7 @@ Q. Write a function to calculate discount on given discount percent. Hint:-
 Q. write a program to find simple interest by passing the values through params.
 
 
+
+25 - august
+Q. Create 5 objects of a user of facebook
+    and print any of their Properties

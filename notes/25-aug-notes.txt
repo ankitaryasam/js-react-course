@@ -1,0 +1,16 @@
+Q. What is object?
+   Object is real time entity.
+   Anything in this world, which exist can be considererd as Object
+
+   Example - Laptop is an object             Pen is an object           
+   => Properties                              => Properties
+        |-> Hp                                   |-> ball Pen
+        |-> 16gb ram.                            |-> blue
+        |-> 1tb hdd                              |-> linc
+        |-> intel i5                             |-> 0.7mm
+
+   => Behaviours                              => Behaviours
+        |-> Watching videos                      |-> refillYourPen
+        |-> Coding                               |-> writing
+        |-> Run msoffice applications.           |-> signingDocument
+        |-> Creating graphics                   
