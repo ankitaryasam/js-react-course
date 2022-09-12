@@ -1,0 +1,17 @@
+Objects methods
+
+In javascript, object behaviours are represented by methods/functions.
+
+
+Object can have methods as well.
+
+inside object
+
+login :  function() {
+        console.log("user is logged in");
+    }
+
+
+------------this keyword-----------
+this is a keyword
+In javascript, 'this' keyword refers to an object

@@ -14,3 +14,50 @@ Q. What is object?
         |-> Coding                               |-> writing
         |-> Run msoffice applications.           |-> signingDocument
         |-> Creating graphics                   
+
+
+        Facebook user is an object
+        => Properties
+               |-> userId/username
+               |-> profile name
+               |-> password
+               |-> email
+               |-> profilePic
+               |-> totalFriends
+
+        => Behaviours
+            |-> login
+            |-> seeNotifications
+            |-> chatting
+            |-> sendFrndRequest
+            |-> acceptFrndRequest
+            |-> commenting
+            |-> likingThePost
+            |-> sharingPost
+
+
+Your own chatting app - WeChat
+WeChat users are considererd as objects
+
+WeChat user  => here, user is object
+    => Properties 
+          |-> userId
+          |-> mobileNo
+          |-> contacts
+          |-> dp
+          
+    => Behaviours
+          |-> login
+          |-> chatting
+          |-> audio call
+          |-> videoCall
+          |-> createNewGroup
+          |-> postStatus
+
+
+In any object oriented programming language, object has two things in common:-
+a) Properties/state/fields
+   => These Properties can be represented by variables
+
+b) Behaviours
+   => Behaviours can be represented by functions/methods/
