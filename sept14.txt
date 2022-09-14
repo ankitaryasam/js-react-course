@@ -1,0 +1,13 @@
+Everything in the javascript is almost object
+
+Ways to create objects in javascript:-
+i) Creating a single object, using object literal
+ii) Creating object using 'new' keyword
+iii) Define a constructor, and then create object of that constructor
+iv) Create an object using Object.create() method.
+
+
+
+Object Accessors:-
+They are simple getter and setter method to get the value of a property or to set the value for a property.
+
